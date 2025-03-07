@@ -3,10 +3,7 @@
 - [Positron](https://positron.posit.co/), including [business/license model](https://positron.posit.co/licensing.html) using [Elastic License 2.0](https://github.com/posit-dev/positron?tab=License-1-ov-file#readme)
 - [Single-Cell Best Practices](https://sc-best-practices.org) and ways to do local-ish science, with R/Python and LLM hubs
 - [Integrated Inferences open access book](https://integrated-inferences.github.io/book/)
-
-## Awesome GitHub Profile README
-
-<i>A curated list of awesome Github Profile READMEs</i>
+- [Lowlighter Metrics](https://github.com/lowlighter/metrics) generate embeddable metrics ... as well as the full curated list of awesome Github Profile READMEs.
 
 ### Contents:
   - [Categories](#categories)
