@@ -3,7 +3,7 @@
 - [Positron](https://positron.posit.co/), including [business/license model](https://positron.posit.co/licensing.html) using [Elastic License 2.0](https://github.com/posit-dev/positron?tab=License-1-ov-file#readme) ... and generally everything in R, the [tidyverse](https://www.tidyverse.org/) [collection of R packages](https://www.tidyverse.org/packages/), [tidymodels](https://tidymodels.tidymodels.org/) and the [tidychatmodels](https://tidychatmodels.albert-rapp.de/) wrapper around the API of different chatbots and provides a unified interface to communicate with them. 
 - [Single-Cell Best Practices](https://sc-best-practices.org) and ways to do local-ish science, with tools like [Positron](https://positron.posit.co/) and the [tidychatmodels](https://tidychatmodels.albert-rapp.de/) wrapper
 - Experimental design frameworks, driven by causal inference ... thus, my interest in open access texts like [Integrated Inferences](https://integrated-inferences.github.io/book/)
-- The full curated list of awesome Github Profile README examples, especially simple pages with embeddable metrics, eg [Lowlighter Metrics](https://github.com/lowlighter/metrics) 
+- The full Github search of Github Profile README examples, especially the curated AWESOME list, focusing mostly on simple pages with embeddable metrics, eg [Lowlighter Metrics](https://github.com/lowlighter/metrics) 
 
 ### Contents:
   - [Categories](#categories)
