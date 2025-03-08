@@ -1,5 +1,7 @@
 # Current Curiosities
 
+-  The whole [Python](https://github.com/topics/python) ecosystem or [Jupyter](https://github.com/topics/jupyter) ecosystem never get old.
+
 - [Positron](https://positron.posit.co/), including [business/license model](https://positron.posit.co/licensing.html) using [Elastic License 2.0](https://github.com/posit-dev/positron?tab=License-1-ov-file#readme) ... and generally everything in R, the [tidyverse](https://www.tidyverse.org/) [collection of R packages](https://www.tidyverse.org/packages/), [tidymodels](https://tidymodels.tidymodels.org/) and the [tidychatmodels](https://tidychatmodels.albert-rapp.de/) wrapper around the API of different chatbots and provides a unified interface to communicate with them. 
 
 - [Single-Cell Best Practices](https://sc-best-practices.org) and ways to follow along, in a local-ish fashion, with science and computational biology, with tools like [Positron](https://positron.posit.co/) and the [tidychatmodels](https://tidychatmodels.albert-rapp.de/) wrapper
