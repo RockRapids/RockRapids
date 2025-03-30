@@ -47,13 +47,13 @@ This roadmap outlines the development strategy for a suite of eight interconnect
 
 The core strategy is to develop these applications in a phased approach, beginning with rockrapids.INFO as the central hub and primary navigation point for the entire ecosystem. Each application will be developed with a clear focus on addressing specific community needs while maintaining a coherent user experience across the entire suite.
 
-This document outlines an alternative technical approach for the Rock Rapids community apps ecosystem, utilizing Next.js as the primary framework instead of WordPress. [Both were given significant consideration](https://docs.google.com/document/d/1hzM7osSUDd4wp0B3yXzxayoXBFc0UhhdF72XSqBHrLE/edit?usp=sharing), but the more modern architecture leverages the robust capabilities of Next.js, a React-based framework that offers both static site generation (SSG) and server-side rendering (SSR), making it ideal for a content-focused community platform. The approach maintains the modular philosophy of eight interconnected applications (.INFO, .ART, .FUN, .GUIDE, .SHOP, .STORE, .XYZ, and .WORK) while providing a more unified technical foundation and improved performance characteristics.
-
 ## Key Technical Components
 
 ### Core Framework: Next.js
 
-Next.js will serve as the foundation for all eight Rock Rapids applications, offering several advantages over the WordPress approach:
+This document outlines an alternative technical approach for the Rock Rapids community apps ecosystem, utilizing Next.js as the primary framework instead of WordPress. [Both were given significant consideration](https://docs.google.com/document/d/1hzM7osSUDd4wp0B3yXzxayoXBFc0UhhdF72XSqBHrLE/edit?usp=sharing), but the more modern architecture leverages the robust capabilities of Next.js, a React-based framework that offers both static site generation (SSG) and server-side rendering (SSR), making it ideal for a content-focused community platform. The approach maintains the modular philosophy of eight interconnected applications (.INFO, .ART, .FUN, .GUIDE, .SHOP, .STORE, .XYZ, and .WORK) while providing a more unified technical foundation and improved performance characteristics.
+
+It's probably worthwhile to briefly enumerate the advantages of Next.js over the WordPress approach:
 
 - **Static Site Generation (SSG)**: Pages are pre-rendered at build time, providing extremely fast load times and improved SEO
 - **Server-Side Rendering (SSR)**: Dynamic content can be rendered server-side when needed, combining performance with fresh content
