@@ -1,10 +1,31 @@
 # Rock Rapids Community App of Apps: Unified Project Roadmap
 
+# Table of Contents
+
+- [Executive Summary](#executive-summary)
+- [Project Philosophy](#project-philosophy)
+- [Development Phases](#development-phases)
+  - [Phase 1: Foundation Building (Months 1-3)](#phase-1-foundation-building-months-1-3)
+  - [Phase 2: Core Applications Development (Months 10-15)](#phase-2-core-applications-development-higher-priority-months-10-15)
+  - [Phase 3: Supplementary Applications Development (Months 10-18)](#phase-3-supplementary-applications-development-dependent-upon-success-of-phase-2-months-10-18)
+  - [Phase 4: Mobile & Advanced Features (Months 19-24)](#phase-4-mobile--advanced-features-after-phase-2-and-probably-phase-3-months-19-24)
+- [Technical Approaches](#two-alternative-technical-approaches-currently-under-consideration)
+  - [Approach 1: WordPress-Based Implementation](#approach-1-wordpress-based-implementation)
+  - [Approach 2: Gatsby.js-Based Implementation](#approach-2-gatsbyjs-based-implementation)
+- [Event Management Implementation](#event-management-implementation)
+  - [Event Data Architecture](#event-data-architecture)
+  - [Event Display and Discovery](#event-display-and-discovery)
+  - [Event Distribution Channels](#event-distribution-channels)
+  - [Organizer Tools](#organizer-tools)
+- [Success Metrics](#success-metrics)
+- [Governance and Maintenance](#governance-and-maintenance)
+- [Technical Approach Decision Factors](#technical-approach-decision-factors)
+- [Risk Management](#risk-management)
+- [Conclusion](#conclusion)
+
 ## Executive Summary
 
 This roadmap outlines the development strategy for a suite of eight interconnected web applications designed to serve the Rock Rapids, Iowa community. Rather than building a single monolithic platform, this project takes a modular approach with distinct yet complementary applications, each addressing a specific aspect of community life (in order of currently expected development): 
-
-# Rock Rapids Community App of Apps Order of Launch
 
 1) Centralized info and top level links to other apps [(.INFO)](https://rockrapids.github.io/FOSS/0/),
 
@@ -65,7 +86,7 @@ BEFORE ANYTHING ELSE ... assemble the information. To accomplish this, we START 
 
 - Establish API framework and AI integration strategy for future integration with sister apps, other data APIs
 
-### Phase 2: Core Applications Development For Locals (Months 4-9)
+### Phase 2: Core Applications Development, Higher Priority (Months 10-15)
 
 Following the establishment of rockrapids.INFO, development will proceed with three core applications that address the most immediate community needs; an important reason for doing this first is about getting more involved users for hopefully person-to-person feedback, before testing it outside visitors on this earlier phase.
 
@@ -90,7 +111,7 @@ Following the establishment of rockrapids.INFO, development will proceed with th
 - Build submission form for local businesses to add events; this will overlap with shopping events/sales
 - Develop basic recommendation engine based on preferences and seasonality
 
-### Phase 3: Supplementary Applications Development For Volunteers, Visitors (Months 10-18)
+### Phase 3: Supplementary Applications Development, Dependent Upon Success of Phase 2 (Months 10-18)
 
 The remaining four applications will be developed in sequence, with each building upon the foundation established in earlier phases:
 
@@ -126,9 +147,7 @@ The remaining four applications will be developed in sequence, with each buildin
 - Implement searchable directory of local services and emergency contacts
 - Optimize for mobile access during emergencies
 
-
-
-### Phase 4: Mobile & Advanced Features (Months 19-24)
+### Phase 4: Mobile & Advanced Features, After Phase 2 and Probably Phase 3 (Months 19-24)
 
 - Develop mobile applications for iOS and Android
 - Implement offline data access for critical information
