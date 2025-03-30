@@ -5,20 +5,22 @@
 
 This roadmap outlines the development strategy for a suite of eight interconnected web applications designed to serve the Rock Rapids, Iowa community. Rather than building a single monolithic platform, this project takes a modular approach with distinct yet complementary applications, each addressing a specific aspect of community life (in order of currently expected development): 
 
-1) [centralized info and links to other apps (.INFO)](RockRapids.INFO),
+1) [Centralized info and top level links to other apps (.INFO)](RockRapids.INFO),
 
-2) [volunteering (.XYZ)](RockRapids.XYZ),    
+2) [Volunteering and optimization/recognition of volunteer abilities/time (.XYZ)](RockRapids.XYZ),    
 
-3) [retail promotions and shopping events (.SHOP)](RockRapids.SHOP),
+3) [Retail promotions and shopping events (.SHOP)](RockRapids.SHOP),
 
-4) [recreation and entertainment (.FUN)](RockRapids.FUN),
+4) [Fun things to do, recreation and entertainment (.FUN)](RockRapids.FUN),
 
-5) [arts and creativity (.ART)](RockRapids.ART),
+5) [Arts, music, gardening, collections, BBQ, writing and various forms of creativity (.ART)](RockRapids.ART),
 
-6) [marketplace listings of top ten things on sale (.STORE)](RockRapids.STORE) 
+6) [Marketplace listings of top ten things on sale (.STORE)](RockRapids.STORE) 
 
-3) [employment (.WORK)](RockRapids.WORK)
-7) [civic information (.GUIDE)](RockRapids.GUIDE),
+7) [Local employment, remote/hybric employement, side-hustles (.WORK)](RockRapids.WORK)
+
+8) [Civic, schoool, church, service provider information (.GUIDE)](RockRapids.GUIDE),
+
 
 The core strategy is to develop these applications in a phased approach, beginning with rockrapids.INFO as the central hub and primary navigation point for the entire ecosystem. Each application will be developed with a clear focus on addressing specific community needs while maintaining a coherent user experience across the entire suite.
 
