@@ -1,8 +1,21 @@
-# Rock Rapids Community Apps Ecosystem
+
+## Rock Rapids Community Apps Ecosystem Design Philosophy
+
+Generally, this is about attempting to look forward to what will work in 2026, by looking at what works very well now and will probably persist. This is probably about *reusing what has worked and will continue to be used, rather than re-inventing new. Our focus needs to be connecting, filling gaps and building something simple that future volunteers can maintain, improve, ie this is what design for maintainability and extensibility look like now.*
+
+- [Integrate Necessary Existing and Future Datastores](https://rockrapids.github.io/communication/2025/03/31/RockRapidsApps-Step0-1.html) ... We all know that digital age has *past tense* ushered in an unprecedented era of information availability, with a vast array of online resources now serving as primary repositories for community-related data ... but AI and vibe coding will change how data is exchanged. 
+
+- [Understand Local Participation In Online Platforms](https://rockrapids.github.io/communication/2025/03/31/RockRapidsApps-Step0-2.html) ... Rock Rapids, a small town in northwest Iowa, exhibits a multifaceted online presence indicative of both its rural character and the pervasive influence of digital technologies. 
+
+- [Evaluate Local Platforms and Their Reach](https://rockrapids.github.io/communication/2025/03/31/RockRapidsApps-Step0-3.html) ... Rock Rapids, Iowa, exhibits a multifaceted online presence of information served to the outside world.
+
+- [Design For Maintainability and Extensibility](https://rockrapids.github.io/communication/2025/03/31/RockRapidsApps-Step0-4.html) ... a synthesis of the best practices for designing community communication app ecosystems that are *inherently, **by design**, maintainable and easily extensible by volunteer contributors.* 
+
+- [Think About Where the App Ecosytem Will Actually Be Built and Then Live](https://rockrapids.github.io/communication/2025/03/31/RockRapidsApps-Step0-5.html) ... *Why does the choice of host for the app ecosystem matters as much as it does?* It's because **development is for building the volunteer competencies and giving volunteers satisfying ways to contribute,** but almost all of the funds needed for this project will spent on hosting for the app ecosystem AND the funding those expense often/typically [whether this is *right* or not] will come FROM the volunteer who has *bought in* and really cares about the project. *It has to be affordable.*
 
 ### Table of Contents
 
-## [Executive Summary](#executive-summary)
+## [Executive Summary of Technical Infrastructure](#executive-summary)
 
 ## [Why Remix: The Superior Choice for Rock Rapids](#why-remix-the-superior-choice-for-rock-rapids-1)
 - [1. Optimized for Polyglot Data Integration](#1-optimized-for-polyglot-data-integration)
